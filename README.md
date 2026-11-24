@@ -1,7 +1,7 @@
-# Mi producto
+# planix-app
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+> **planix-app** Tu trabajo, en movimiento: Planix App organiza tus proyectos con tableros Kanban simples, visuales y colaborativos.
+> Proyecto n.º 6 del catálogo · Sitio de referencia: Trello · [PRD](docs/PRD.md) · URL publicada: Pendiente
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
