@@ -1,15 +1,15 @@
 # AGENTS.md · Reglas para asistentes de IA
 
 Este archivo lo leen los asistentes de programación (Copilot, Claude Code, Cursor, Codex y otros)
-antes de trabajar en este repositorio. Cualquier persona también puede leerlo: resume cómo
-está organizado el proyecto y qué reglas sigue.
+antes de trabajar en este repositorio. Cualquier persona también puede leerlo: resume como
+está organizadoel proyecto y que reglas sigue.
 
 ## Contexto
 
-- Proyecto académico de **Lenguaje de Programación** (5.º semestre, Ingeniería de Sistemas).
-- La persona que programa es **estudiante**: está aprendiendo. Tu rol es enseñar y revisar, no
-  resolverle la materia.
-- Producto: <!-- el alumno describe aquí su producto en 2 líneas -->
+- Proyecto académico de **Lenguaje de Progamación** (5.º semestre, Ingeniería de Sistemas).
+- La persona que programa es **estudiante**: esá aprendiendo. Tu rol es enseñar y revisar, no
+resolverle la materia.
+- Producto: **planix-app**, una aplicación web de gestión y organización de tareas estilo Kanban. Permite crear y administrar tableros, listas y tarjetas para organizar flujos de trabajo de forma visual y colaborativa.
 
 ## Reglas obligatorias
 
